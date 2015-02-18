@@ -1,2 +1,2 @@
 # noder
-test with node js
+test with nodejs and mongodb 
